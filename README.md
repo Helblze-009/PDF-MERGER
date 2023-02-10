@@ -30,4 +30,4 @@ Contributing
 Contributions are welcome! Please feel free to submit a pull request or create an issue if you find any bug or have any suggestions.
 
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.# PDF-MERGER
